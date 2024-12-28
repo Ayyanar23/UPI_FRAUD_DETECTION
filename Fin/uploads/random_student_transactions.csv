@@ -1,0 +1,1076 @@
+Student_ID,School,Transaction_Amount,Transaction_Date
+S0001,Springfield High,140.03,2024-08-21
+S0001,Springfield High,72.11,2024-07-10
+S0002,Riverside Academy,216.27,2024-01-31
+S0003,Springfield High,65.69,2024-11-12
+S0003,Springfield High,41.14,2024-11-22
+S0003,Maple Leaf School,229.65,2024-12-07
+S0003,Springfield High,187.4,2024-11-11
+S0003,Green Valley School,300.9,2024-09-04
+S0004,Riverside Academy,231.48,2024-12-03
+S0004,Maple Leaf School,118.56,2024-09-06
+S0004,Oakwood International,311.4,2024-01-09
+S0004,Riverside Academy,366.35,2024-01-04
+S0005,Green Valley School,455.29,2024-09-29
+S0005,Riverside Academy,332.86,2024-10-09
+S0005,Green Valley School,157.8,2024-07-29
+S0005,Green Valley School,325.24,2024-01-07
+S0006,Oakwood International,25.26,2024-01-09
+S0006,Riverside Academy,499.31,2024-09-28
+S0006,Oakwood International,425.18,2024-05-20
+S0007,Oakwood International,218.87,2024-10-01
+S0007,Riverside Academy,62.9,2024-05-26
+S0008,Springfield High,359.08,2024-01-09
+S0008,Springfield High,227.35,2024-09-14
+S0008,Oakwood International,450.64,2024-12-23
+S0008,Maple Leaf School,167.83,2024-12-11
+S0008,Oakwood International,82.68,2024-08-08
+S0008,Oakwood International,71.83,2024-04-01
+S0008,Oakwood International,315.92,2024-02-24
+S0008,Springfield High,296.83,2024-02-19
+S0008,Springfield High,358.95,2024-09-25
+S0009,Springfield High,196.64,2024-03-17
+S0009,Oakwood International,302.72,2024-05-03
+S0010,Maple Leaf School,154.5,2024-04-08
+S0010,Springfield High,257.72,2024-11-13
+S0010,Riverside Academy,220.8,2024-09-26
+S0010,Riverside Academy,398.62,2024-05-09
+S0010,Riverside Academy,66.06,2024-06-30
+S0010,Green Valley School,330.81,2024-05-16
+S0010,Oakwood International,440.08,2024-07-22
+S0010,Riverside Academy,280.15,2024-02-10
+S0010,Oakwood International,434.09,2024-07-10
+S0010,Riverside Academy,220.73,2024-07-26
+S0011,Maple Leaf School,445.16,2024-08-23
+S0011,Oakwood International,212.77,2024-10-16
+S0011,Riverside Academy,415.44,2024-05-04
+S0011,Springfield High,205.38,2024-12-22
+S0011,Oakwood International,367.51,2024-04-25
+S0011,Green Valley School,163.15,2024-06-02
+S0011,Springfield High,163.14,2024-12-16
+S0012,Springfield High,134.9,2024-02-11
+S0013,Green Valley School,477.26,2024-11-30
+S0014,Springfield High,346.54,2024-11-28
+S0014,Springfield High,242.39,2024-01-17
+S0015,Riverside Academy,54.7,2024-02-17
+S0015,Riverside Academy,51.83,2024-07-26
+S0015,Oakwood International,221.62,2024-07-13
+S0015,Oakwood International,374.85,2024-07-12
+S0016,Oakwood International,192.6,2024-10-09
+S0016,Riverside Academy,73.76,2024-08-31
+S0016,Oakwood International,39.39,2024-01-29
+S0016,Springfield High,478.75,2024-11-22
+S0017,Riverside Academy,285.22,2024-01-05
+S0017,Oakwood International,338.31,2024-12-25
+S0017,Springfield High,211.3,2024-03-28
+S0017,Oakwood International,438.07,2024-02-12
+S0017,Maple Leaf School,471.15,2024-09-12
+S0017,Oakwood International,217.24,2024-08-10
+S0017,Maple Leaf School,458.76,2024-11-26
+S0017,Oakwood International,35.21,2024-06-18
+S0017,Green Valley School,150.94,2024-10-16
+S0018,Oakwood International,163.1,2024-02-18
+S0018,Riverside Academy,60.76,2024-09-27
+S0018,Riverside Academy,258.63,2024-01-22
+S0018,Maple Leaf School,85.82,2024-04-27
+S0018,Riverside Academy,246.27,2024-04-18
+S0018,Springfield High,425.16,2024-12-20
+S0018,Green Valley School,181.56,2024-10-17
+S0018,Green Valley School,282.57,2024-08-31
+S0018,Springfield High,66.29,2024-05-18
+S0018,Maple Leaf School,146.5,2024-01-24
+S0019,Springfield High,120.82,2024-02-08
+S0020,Springfield High,220.27,2024-12-16
+S0020,Green Valley School,284.87,2024-05-23
+S0020,Oakwood International,386.04,2024-10-05
+S0020,Green Valley School,314.64,2024-10-15
+S0020,Green Valley School,340.74,2024-12-02
+S0020,Riverside Academy,282.8,2024-01-17
+S0020,Springfield High,308.41,2024-04-01
+S0020,Green Valley School,332.34,2024-06-10
+S0020,Springfield High,349.8,2024-01-09
+S0021,Riverside Academy,24.19,2024-04-16
+S0021,Springfield High,143.9,2024-10-27
+S0021,Green Valley School,383.58,2024-03-14
+S0021,Springfield High,461.55,2024-12-30
+S0022,Riverside Academy,182.0,2024-07-22
+S0022,Oakwood International,98.89,2024-02-09
+S0022,Springfield High,80.19,2024-06-02
+S0022,Green Valley School,332.1,2024-03-24
+S0022,Riverside Academy,44.1,2024-10-15
+S0022,Green Valley School,373.07,2024-05-03
+S0022,Green Valley School,486.19,2024-10-17
+S0022,Springfield High,54.96,2024-07-18
+S0022,Green Valley School,269.94,2024-12-12
+S0023,Springfield High,194.34,2024-10-03
+S0023,Oakwood International,232.29,2024-06-18
+S0023,Green Valley School,87.13,2024-07-15
+S0023,Green Valley School,162.7,2024-03-12
+S0023,Green Valley School,168.95,2024-12-18
+S0023,Maple Leaf School,471.29,2024-02-10
+S0023,Maple Leaf School,302.15,2024-09-13
+S0024,Riverside Academy,442.84,2024-06-26
+S0024,Maple Leaf School,86.23,2024-01-28
+S0024,Riverside Academy,379.67,2024-02-20
+S0024,Maple Leaf School,34.38,2024-08-11
+S0025,Oakwood International,49.97,2024-04-28
+S0025,Riverside Academy,227.13,2024-02-08
+S0025,Maple Leaf School,217.77,2024-06-23
+S0025,Oakwood International,307.47,2024-11-05
+S0025,Maple Leaf School,212.95,2024-11-10
+S0025,Springfield High,115.63,2024-10-31
+S0025,Springfield High,261.05,2024-07-22
+S0025,Oakwood International,179.13,2024-06-16
+S0026,Green Valley School,64.34,2024-01-16
+S0026,Green Valley School,342.33,2024-11-20
+S0026,Springfield High,300.64,2024-05-19
+S0026,Springfield High,268.2,2024-08-18
+S0026,Green Valley School,161.13,2024-09-08
+S0026,Riverside Academy,118.05,2024-04-26
+S0026,Green Valley School,492.38,2024-07-01
+S0026,Maple Leaf School,36.84,2024-10-10
+S0026,Riverside Academy,110.17,2024-07-11
+S0026,Maple Leaf School,473.21,2024-08-09
+S0027,Springfield High,386.0,2024-04-05
+S0027,Riverside Academy,384.44,2024-12-14
+S0027,Maple Leaf School,151.83,2024-10-26
+S0027,Maple Leaf School,68.79,2024-12-04
+S0027,Riverside Academy,253.72,2024-07-13
+S0028,Oakwood International,221.02,2024-02-13
+S0029,Green Valley School,73.3,2024-11-12
+S0029,Maple Leaf School,270.97,2024-05-31
+S0029,Green Valley School,122.75,2024-05-06
+S0030,Green Valley School,283.77,2024-02-07
+S0030,Springfield High,337.34,2024-02-12
+S0030,Green Valley School,183.54,2024-05-17
+S0030,Maple Leaf School,204.56,2024-03-19
+S0030,Springfield High,373.6,2024-07-13
+S0030,Riverside Academy,223.75,2024-12-30
+S0030,Maple Leaf School,235.28,2024-11-20
+S0031,Springfield High,48.15,2024-03-19
+S0031,Springfield High,163.4,2024-07-18
+S0031,Green Valley School,220.35,2024-06-11
+S0031,Riverside Academy,208.17,2024-07-03
+S0031,Maple Leaf School,323.67,2024-02-24
+S0031,Maple Leaf School,151.86,2024-02-16
+S0032,Green Valley School,208.47,2024-01-03
+S0032,Riverside Academy,483.44,2024-06-06
+S0032,Maple Leaf School,94.22,2024-08-15
+S0032,Riverside Academy,474.33,2024-07-03
+S0032,Maple Leaf School,235.45,2024-05-18
+S0033,Green Valley School,347.91,2024-02-22
+S0033,Oakwood International,187.31,2024-03-08
+S0033,Maple Leaf School,223.99,2024-02-14
+S0034,Springfield High,61.87,2024-04-05
+S0034,Springfield High,223.48,2024-08-08
+S0034,Oakwood International,206.22,2024-08-17
+S0034,Maple Leaf School,48.54,2024-10-12
+S0035,Springfield High,436.56,2024-10-11
+S0035,Springfield High,375.44,2024-09-19
+S0035,Maple Leaf School,118.57,2024-07-27
+S0035,Riverside Academy,391.77,2024-02-22
+S0035,Maple Leaf School,47.43,2024-01-14
+S0035,Riverside Academy,320.28,2024-02-15
+S0036,Oakwood International,270.0,2024-06-30
+S0036,Green Valley School,105.01,2024-10-10
+S0037,Oakwood International,390.35,2024-02-17
+S0037,Green Valley School,182.04,2024-11-01
+S0038,Springfield High,479.53,2024-11-02
+S0038,Springfield High,326.27,2024-06-15
+S0038,Springfield High,82.37,2024-07-16
+S0038,Riverside Academy,60.37,2024-01-07
+S0038,Green Valley School,135.42,2024-05-29
+S0038,Springfield High,95.01,2024-07-30
+S0038,Maple Leaf School,84.91,2024-07-17
+S0039,Green Valley School,381.98,2024-02-13
+S0039,Green Valley School,46.92,2024-10-13
+S0040,Riverside Academy,476.13,2024-05-04
+S0040,Oakwood International,317.69,2024-10-19
+S0040,Riverside Academy,237.34,2024-09-23
+S0040,Springfield High,286.23,2024-03-27
+S0040,Maple Leaf School,293.94,2024-12-16
+S0040,Maple Leaf School,343.76,2024-07-13
+S0041,Springfield High,442.2,2024-03-27
+S0041,Maple Leaf School,325.07,2024-03-12
+S0041,Riverside Academy,493.4,2024-05-17
+S0041,Riverside Academy,168.37,2024-06-03
+S0041,Springfield High,485.78,2024-05-17
+S0041,Maple Leaf School,164.91,2024-09-09
+S0042,Green Valley School,225.48,2024-03-15
+S0042,Oakwood International,239.77,2024-02-02
+S0042,Green Valley School,319.38,2024-03-26
+S0042,Riverside Academy,400.2,2024-08-10
+S0042,Riverside Academy,299.8,2024-05-21
+S0042,Riverside Academy,182.45,2024-08-03
+S0042,Riverside Academy,46.35,2024-06-02
+S0042,Oakwood International,236.25,2024-09-04
+S0042,Springfield High,28.43,2024-02-09
+S0042,Riverside Academy,190.68,2024-07-03
+S0043,Maple Leaf School,150.67,2024-05-08
+S0043,Oakwood International,325.89,2024-05-06
+S0043,Riverside Academy,488.91,2024-11-16
+S0043,Maple Leaf School,54.25,2024-09-10
+S0043,Riverside Academy,301.1,2024-10-31
+S0044,Springfield High,198.4,2024-11-11
+S0045,Oakwood International,294.36,2024-04-10
+S0045,Springfield High,477.57,2024-08-22
+S0045,Oakwood International,372.07,2024-02-24
+S0045,Riverside Academy,30.1,2024-03-10
+S0045,Riverside Academy,455.43,2024-06-04
+S0045,Oakwood International,290.11,2024-01-04
+S0045,Maple Leaf School,102.24,2024-07-21
+S0045,Maple Leaf School,306.45,2024-06-19
+S0046,Riverside Academy,255.67,2024-11-13
+S0046,Riverside Academy,479.28,2024-07-13
+S0046,Springfield High,230.76,2024-06-17
+S0046,Riverside Academy,407.37,2024-08-13
+S0046,Oakwood International,420.31,2024-06-20
+S0046,Maple Leaf School,491.37,2024-08-08
+S0046,Maple Leaf School,51.32,2024-11-29
+S0046,Springfield High,326.6,2024-10-31
+S0046,Maple Leaf School,29.18,2024-03-10
+S0047,Maple Leaf School,356.73,2024-06-02
+S0047,Green Valley School,495.58,2024-06-13
+S0048,Oakwood International,266.79,2024-11-04
+S0048,Green Valley School,308.8,2024-12-21
+S0048,Maple Leaf School,188.31,2024-04-12
+S0048,Springfield High,459.79,2024-09-02
+S0048,Springfield High,199.83,2024-06-09
+S0048,Maple Leaf School,389.49,2024-03-31
+S0048,Riverside Academy,342.66,2024-07-22
+S0049,Green Valley School,35.66,2024-06-12
+S0049,Maple Leaf School,319.13,2024-05-29
+S0050,Springfield High,173.98,2024-12-21
+S0050,Springfield High,171.55,2024-11-20
+S0050,Green Valley School,283.4,2024-09-08
+S0050,Oakwood International,199.42,2024-10-21
+S0050,Maple Leaf School,133.48,2024-05-04
+S0050,Maple Leaf School,427.27,2024-06-15
+S0050,Oakwood International,482.56,2024-07-11
+S0050,Green Valley School,305.32,2024-05-23
+S0050,Green Valley School,83.68,2024-07-20
+S0051,Springfield High,49.94,2024-07-05
+S0051,Oakwood International,335.17,2024-02-28
+S0051,Green Valley School,459.21,2024-10-15
+S0051,Riverside Academy,162.01,2024-04-12
+S0051,Maple Leaf School,331.47,2024-10-30
+S0052,Springfield High,334.45,2024-10-06
+S0052,Oakwood International,73.19,2024-04-02
+S0052,Springfield High,357.33,2024-12-15
+S0052,Green Valley School,51.51,2024-10-08
+S0052,Green Valley School,283.87,2024-01-14
+S0052,Riverside Academy,325.31,2024-08-24
+S0052,Maple Leaf School,170.95,2024-12-28
+S0052,Oakwood International,72.62,2024-04-17
+S0052,Springfield High,354.39,2024-08-12
+S0052,Maple Leaf School,474.08,2024-05-29
+S0053,Green Valley School,498.61,2024-12-20
+S0053,Maple Leaf School,457.1,2024-02-05
+S0053,Springfield High,55.79,2024-07-28
+S0053,Maple Leaf School,338.52,2024-12-10
+S0053,Green Valley School,259.16,2024-09-12
+S0053,Maple Leaf School,18.93,2024-03-12
+S0054,Oakwood International,161.34,2024-11-20
+S0054,Maple Leaf School,476.07,2024-06-04
+S0054,Oakwood International,177.45,2024-05-03
+S0054,Maple Leaf School,385.42,2024-05-09
+S0054,Green Valley School,104.08,2024-12-03
+S0054,Riverside Academy,499.99,2024-03-19
+S0054,Riverside Academy,85.92,2024-08-04
+S0054,Oakwood International,154.94,2024-07-12
+S0054,Oakwood International,396.18,2024-02-07
+S0054,Riverside Academy,258.77,2024-08-17
+S0055,Green Valley School,274.49,2024-11-02
+S0055,Green Valley School,371.94,2024-09-02
+S0055,Maple Leaf School,268.0,2024-10-25
+S0055,Oakwood International,334.35,2024-07-24
+S0056,Green Valley School,439.43,2024-09-30
+S0056,Springfield High,312.84,2024-09-16
+S0057,Maple Leaf School,302.65,2024-12-20
+S0058,Maple Leaf School,85.58,2024-08-02
+S0058,Riverside Academy,98.61,2024-10-05
+S0058,Oakwood International,349.49,2024-01-19
+S0058,Green Valley School,316.12,2024-07-03
+S0059,Green Valley School,452.3,2024-12-25
+S0059,Maple Leaf School,363.38,2024-10-01
+S0059,Oakwood International,31.41,2024-10-31
+S0059,Oakwood International,188.51,2024-11-22
+S0059,Oakwood International,362.6,2024-02-13
+S0060,Riverside Academy,485.1,2024-02-25
+S0060,Green Valley School,309.19,2024-05-07
+S0061,Oakwood International,378.67,2024-12-02
+S0061,Riverside Academy,394.06,2024-12-06
+S0061,Springfield High,124.66,2024-06-30
+S0061,Maple Leaf School,127.19,2024-03-26
+S0062,Green Valley School,483.14,2024-11-27
+S0062,Green Valley School,394.34,2024-11-09
+S0063,Maple Leaf School,452.95,2024-01-23
+S0063,Springfield High,105.07,2024-10-15
+S0063,Riverside Academy,342.37,2024-11-26
+S0063,Maple Leaf School,289.51,2024-12-12
+S0063,Riverside Academy,225.89,2024-11-27
+S0063,Riverside Academy,387.02,2024-07-23
+S0063,Riverside Academy,391.28,2024-06-18
+S0064,Springfield High,256.42,2024-08-08
+S0064,Springfield High,215.14,2024-02-24
+S0064,Riverside Academy,89.41,2024-01-06
+S0064,Oakwood International,107.85,2024-02-20
+S0064,Green Valley School,306.29,2024-05-12
+S0065,Springfield High,437.77,2024-04-23
+S0065,Oakwood International,35.57,2024-09-18
+S0065,Oakwood International,245.49,2024-09-22
+S0065,Green Valley School,191.89,2024-10-12
+S0065,Riverside Academy,467.8,2024-10-24
+S0065,Oakwood International,358.59,2024-12-18
+S0065,Oakwood International,262.8,2024-10-21
+S0065,Oakwood International,71.09,2024-04-23
+S0066,Riverside Academy,51.1,2024-08-16
+S0066,Riverside Academy,88.55,2024-07-10
+S0066,Springfield High,230.17,2024-07-19
+S0066,Springfield High,261.54,2024-08-25
+S0066,Oakwood International,417.21,2024-12-13
+S0066,Riverside Academy,54.94,2024-10-28
+S0067,Riverside Academy,456.15,2024-12-19
+S0067,Green Valley School,410.18,2024-09-13
+S0067,Oakwood International,443.47,2024-03-18
+S0068,Springfield High,465.93,2024-06-25
+S0068,Green Valley School,213.3,2024-01-13
+S0068,Riverside Academy,204.26,2024-09-04
+S0068,Springfield High,193.24,2024-02-23
+S0068,Oakwood International,199.22,2024-05-31
+S0068,Riverside Academy,49.99,2024-07-31
+S0069,Oakwood International,120.02,2024-02-13
+S0069,Green Valley School,166.16,2024-02-29
+S0069,Green Valley School,58.55,2024-03-13
+S0069,Green Valley School,360.21,2024-06-27
+S0069,Maple Leaf School,174.29,2024-06-08
+S0069,Oakwood International,81.56,2024-06-24
+S0070,Green Valley School,28.77,2024-08-21
+S0070,Green Valley School,459.52,2024-04-15
+S0070,Oakwood International,241.5,2024-09-23
+S0070,Green Valley School,417.24,2024-09-04
+S0071,Oakwood International,381.83,2024-06-27
+S0071,Riverside Academy,239.86,2024-08-31
+S0071,Oakwood International,311.52,2024-02-19
+S0071,Oakwood International,453.87,2024-08-12
+S0071,Maple Leaf School,19.31,2024-12-22
+S0072,Riverside Academy,115.67,2024-08-19
+S0072,Maple Leaf School,83.26,2024-06-12
+S0073,Green Valley School,470.71,2024-02-04
+S0073,Oakwood International,308.35,2024-06-02
+S0073,Riverside Academy,217.39,2024-01-23
+S0073,Maple Leaf School,390.32,2024-12-29
+S0073,Oakwood International,126.44,2024-02-28
+S0073,Springfield High,69.71,2024-01-12
+S0073,Maple Leaf School,126.84,2024-06-24
+S0073,Riverside Academy,323.09,2024-11-27
+S0073,Maple Leaf School,315.18,2024-02-25
+S0073,Maple Leaf School,40.78,2024-12-12
+S0074,Maple Leaf School,419.98,2024-03-25
+S0074,Green Valley School,254.92,2024-05-04
+S0074,Springfield High,272.67,2024-09-21
+S0075,Riverside Academy,319.66,2024-03-30
+S0075,Riverside Academy,291.77,2024-10-09
+S0075,Riverside Academy,362.09,2024-03-22
+S0075,Oakwood International,152.72,2024-06-18
+S0075,Riverside Academy,10.77,2024-10-13
+S0075,Riverside Academy,182.88,2024-08-06
+S0075,Springfield High,289.63,2024-08-24
+S0075,Oakwood International,101.78,2024-04-28
+S0075,Oakwood International,337.43,2024-07-26
+S0076,Maple Leaf School,266.51,2024-11-18
+S0076,Green Valley School,186.7,2024-04-04
+S0076,Oakwood International,477.17,2024-04-05
+S0076,Oakwood International,276.6,2024-11-23
+S0077,Springfield High,395.34,2024-12-02
+S0077,Riverside Academy,258.74,2024-08-09
+S0077,Oakwood International,19.96,2024-07-21
+S0078,Oakwood International,437.93,2024-01-15
+S0078,Green Valley School,31.33,2024-11-10
+S0078,Springfield High,199.57,2024-04-11
+S0078,Green Valley School,192.92,2024-08-18
+S0078,Oakwood International,376.19,2024-10-30
+S0078,Oakwood International,184.98,2024-08-07
+S0078,Springfield High,43.1,2024-07-18
+S0078,Maple Leaf School,128.15,2024-01-03
+S0079,Maple Leaf School,331.98,2024-12-26
+S0079,Oakwood International,60.8,2024-04-19
+S0079,Oakwood International,295.13,2024-04-15
+S0079,Green Valley School,380.77,2024-05-22
+S0079,Green Valley School,75.37,2024-12-26
+S0079,Green Valley School,182.63,2024-02-02
+S0079,Riverside Academy,175.89,2024-10-22
+S0080,Oakwood International,324.97,2024-02-22
+S0080,Riverside Academy,416.89,2024-10-01
+S0080,Maple Leaf School,345.49,2024-04-05
+S0080,Oakwood International,490.6,2024-07-06
+S0080,Oakwood International,244.48,2024-06-15
+S0081,Springfield High,99.32,2024-04-10
+S0081,Oakwood International,76.08,2024-08-22
+S0081,Maple Leaf School,360.86,2024-02-28
+S0081,Oakwood International,472.37,2024-05-14
+S0081,Riverside Academy,28.12,2024-12-09
+S0081,Oakwood International,108.78,2024-09-07
+S0081,Riverside Academy,397.64,2024-09-27
+S0081,Green Valley School,444.04,2024-11-23
+S0081,Green Valley School,164.64,2024-06-09
+S0082,Springfield High,161.94,2024-11-01
+S0082,Oakwood International,205.13,2024-07-17
+S0082,Green Valley School,409.55,2024-11-08
+S0082,Green Valley School,241.97,2024-07-19
+S0083,Springfield High,27.94,2024-10-27
+S0083,Springfield High,326.98,2024-02-28
+S0083,Oakwood International,150.19,2024-06-27
+S0083,Riverside Academy,432.45,2024-06-29
+S0083,Oakwood International,33.42,2024-08-22
+S0083,Riverside Academy,331.31,2024-11-12
+S0084,Springfield High,143.88,2024-03-29
+S0085,Maple Leaf School,401.68,2024-12-10
+S0085,Oakwood International,224.11,2024-12-27
+S0085,Maple Leaf School,206.01,2024-06-01
+S0085,Riverside Academy,225.47,2024-11-10
+S0086,Oakwood International,478.67,2024-10-29
+S0087,Maple Leaf School,176.13,2024-02-13
+S0087,Maple Leaf School,101.54,2024-12-10
+S0087,Oakwood International,349.11,2024-03-09
+S0087,Maple Leaf School,190.0,2024-06-09
+S0087,Oakwood International,400.67,2024-03-01
+S0087,Maple Leaf School,140.69,2024-05-02
+S0088,Springfield High,50.48,2024-06-05
+S0088,Oakwood International,218.0,2024-02-29
+S0088,Springfield High,221.0,2024-04-03
+S0088,Green Valley School,497.6,2024-07-10
+S0088,Springfield High,98.42,2024-12-21
+S0088,Maple Leaf School,153.95,2024-03-13
+S0088,Riverside Academy,60.27,2024-09-18
+S0089,Springfield High,170.68,2024-07-17
+S0089,Springfield High,154.86,2024-08-02
+S0089,Springfield High,228.5,2024-11-01
+S0089,Riverside Academy,361.65,2024-03-11
+S0089,Riverside Academy,91.66,2024-10-21
+S0090,Springfield High,227.52,2024-07-15
+S0090,Green Valley School,229.09,2024-08-04
+S0091,Riverside Academy,366.14,2024-04-05
+S0091,Riverside Academy,456.69,2024-09-06
+S0091,Riverside Academy,311.28,2024-11-21
+S0091,Oakwood International,223.12,2024-10-02
+S0092,Springfield High,323.34,2024-12-21
+S0092,Green Valley School,397.82,2024-11-26
+S0092,Riverside Academy,38.11,2024-03-29
+S0092,Oakwood International,338.88,2024-10-11
+S0092,Maple Leaf School,209.04,2024-03-26
+S0092,Maple Leaf School,261.41,2024-09-07
+S0092,Riverside Academy,377.45,2024-05-27
+S0092,Green Valley School,88.39,2024-03-12
+S0092,Green Valley School,25.26,2024-04-05
+S0092,Springfield High,425.85,2024-06-10
+S0093,Riverside Academy,342.26,2024-08-18
+S0093,Maple Leaf School,224.7,2024-11-13
+S0093,Springfield High,71.85,2024-01-28
+S0093,Green Valley School,125.64,2024-07-02
+S0093,Springfield High,326.13,2024-01-05
+S0093,Maple Leaf School,187.45,2024-09-05
+S0094,Green Valley School,475.24,2024-03-10
+S0094,Oakwood International,25.87,2024-04-09
+S0094,Oakwood International,85.18,2024-07-15
+S0094,Riverside Academy,230.46,2024-10-14
+S0095,Springfield High,191.77,2024-09-15
+S0095,Green Valley School,227.53,2024-11-30
+S0095,Riverside Academy,47.67,2024-09-10
+S0095,Springfield High,77.47,2024-07-28
+S0095,Maple Leaf School,189.81,2024-12-16
+S0095,Green Valley School,164.05,2024-09-08
+S0095,Springfield High,146.56,2024-07-31
+S0095,Green Valley School,480.65,2024-12-29
+S0096,Springfield High,22.7,2024-08-15
+S0096,Maple Leaf School,101.16,2024-09-07
+S0096,Green Valley School,263.7,2024-03-26
+S0096,Oakwood International,457.64,2024-02-12
+S0096,Maple Leaf School,67.7,2024-10-16
+S0096,Springfield High,389.73,2024-01-16
+S0096,Green Valley School,354.98,2024-04-22
+S0097,Maple Leaf School,115.14,2024-05-29
+S0097,Springfield High,309.82,2024-01-17
+S0097,Oakwood International,350.05,2024-05-20
+S0097,Oakwood International,499.33,2024-04-25
+S0097,Springfield High,108.09,2024-10-02
+S0097,Oakwood International,76.51,2024-05-27
+S0097,Maple Leaf School,46.29,2024-03-27
+S0097,Oakwood International,94.6,2024-08-22
+S0098,Riverside Academy,359.55,2024-10-16
+S0098,Oakwood International,498.66,2024-09-10
+S0098,Riverside Academy,407.15,2024-10-08
+S0099,Green Valley School,484.11,2024-09-18
+S0099,Maple Leaf School,493.42,2024-02-27
+S0099,Green Valley School,337.24,2024-10-20
+S0099,Green Valley School,357.67,2024-02-28
+S0099,Oakwood International,279.5,2024-05-17
+S0100,Oakwood International,152.28,2024-10-05
+S0100,Oakwood International,156.98,2024-07-06
+S0100,Green Valley School,87.18,2024-10-04
+S0101,Maple Leaf School,357.69,2024-01-22
+S0101,Maple Leaf School,353.11,2024-08-13
+S0101,Riverside Academy,95.3,2024-10-06
+S0101,Springfield High,187.13,2024-04-21
+S0102,Maple Leaf School,119.88,2024-08-05
+S0102,Oakwood International,492.71,2024-02-22
+S0102,Riverside Academy,398.11,2024-11-30
+S0102,Oakwood International,126.0,2024-05-06
+S0102,Green Valley School,252.07,2024-06-01
+S0102,Green Valley School,186.84,2024-01-17
+S0102,Oakwood International,290.42,2024-08-18
+S0102,Maple Leaf School,239.03,2024-05-14
+S0102,Springfield High,491.68,2024-06-27
+S0103,Oakwood International,73.59,2024-02-14
+S0103,Maple Leaf School,443.28,2024-08-12
+S0103,Riverside Academy,42.22,2024-03-01
+S0103,Oakwood International,205.1,2024-05-01
+S0103,Riverside Academy,361.3,2024-04-17
+S0103,Maple Leaf School,244.55,2024-10-28
+S0103,Maple Leaf School,211.29,2024-12-18
+S0103,Maple Leaf School,210.62,2024-06-28
+S0103,Maple Leaf School,291.7,2024-12-29
+S0104,Green Valley School,71.41,2024-11-08
+S0104,Maple Leaf School,165.34,2024-11-19
+S0104,Green Valley School,46.34,2024-08-07
+S0104,Springfield High,238.26,2024-03-25
+S0104,Green Valley School,263.51,2024-11-11
+S0105,Riverside Academy,72.88,2024-03-12
+S0105,Springfield High,416.24,2024-04-15
+S0105,Riverside Academy,280.14,2024-04-15
+S0105,Oakwood International,298.02,2024-01-31
+S0105,Oakwood International,386.21,2024-10-18
+S0105,Green Valley School,73.23,2024-06-28
+S0105,Riverside Academy,256.4,2024-09-29
+S0105,Oakwood International,435.42,2024-05-23
+S0105,Oakwood International,417.38,2024-11-01
+S0105,Oakwood International,263.87,2024-10-02
+S0106,Springfield High,159.02,2024-03-27
+S0106,Springfield High,89.36,2024-06-14
+S0106,Maple Leaf School,468.02,2024-12-26
+S0106,Riverside Academy,120.48,2024-05-29
+S0106,Oakwood International,474.27,2024-05-28
+S0106,Riverside Academy,264.26,2024-10-20
+S0106,Maple Leaf School,149.18,2024-05-16
+S0107,Green Valley School,48.64,2024-09-20
+S0107,Maple Leaf School,106.19,2024-12-13
+S0107,Oakwood International,478.61,2024-02-18
+S0107,Green Valley School,144.48,2024-03-10
+S0107,Green Valley School,316.26,2024-07-29
+S0107,Maple Leaf School,311.07,2024-01-31
+S0107,Oakwood International,55.78,2024-05-21
+S0107,Green Valley School,324.08,2024-12-01
+S0107,Maple Leaf School,299.99,2024-03-05
+S0107,Maple Leaf School,294.52,2024-12-25
+S0108,Oakwood International,93.89,2024-03-08
+S0108,Maple Leaf School,315.99,2024-05-07
+S0108,Maple Leaf School,451.98,2024-03-15
+S0108,Maple Leaf School,175.43,2024-12-30
+S0108,Riverside Academy,462.73,2024-06-13
+S0108,Springfield High,30.19,2024-05-06
+S0108,Riverside Academy,433.25,2024-12-12
+S0109,Maple Leaf School,49.8,2024-07-20
+S0109,Springfield High,474.79,2024-09-07
+S0109,Green Valley School,387.8,2024-03-13
+S0109,Riverside Academy,139.68,2024-10-22
+S0109,Riverside Academy,113.3,2024-11-19
+S0109,Riverside Academy,290.35,2024-05-17
+S0110,Oakwood International,312.87,2024-11-17
+S0110,Maple Leaf School,24.84,2024-07-31
+S0110,Green Valley School,445.61,2024-07-11
+S0110,Green Valley School,277.33,2024-08-19
+S0111,Green Valley School,324.53,2024-02-08
+S0111,Maple Leaf School,158.03,2024-11-20
+S0111,Springfield High,129.99,2024-02-17
+S0112,Riverside Academy,405.6,2024-07-25
+S0112,Maple Leaf School,208.99,2024-09-20
+S0112,Riverside Academy,232.24,2024-05-22
+S0112,Maple Leaf School,347.42,2024-12-21
+S0112,Riverside Academy,87.46,2024-07-07
+S0112,Maple Leaf School,213.65,2024-08-20
+S0112,Springfield High,237.58,2024-09-06
+S0112,Green Valley School,176.69,2024-06-16
+S0112,Riverside Academy,80.4,2024-10-24
+S0113,Maple Leaf School,432.13,2024-01-02
+S0113,Springfield High,166.47,2024-02-17
+S0113,Springfield High,494.13,2024-08-22
+S0113,Green Valley School,179.23,2024-11-21
+S0113,Maple Leaf School,205.37,2024-12-06
+S0113,Riverside Academy,382.73,2024-12-23
+S0113,Oakwood International,262.34,2024-07-02
+S0113,Springfield High,62.03,2024-02-02
+S0114,Springfield High,128.45,2024-09-30
+S0114,Green Valley School,70.04,2024-07-22
+S0115,Maple Leaf School,230.3,2024-04-21
+S0116,Oakwood International,79.03,2024-08-07
+S0116,Oakwood International,34.8,2024-04-18
+S0117,Oakwood International,473.24,2024-09-10
+S0117,Maple Leaf School,433.44,2024-05-17
+S0117,Riverside Academy,214.89,2024-06-14
+S0118,Springfield High,481.72,2024-05-25
+S0118,Maple Leaf School,452.13,2024-06-21
+S0118,Oakwood International,408.6,2024-10-07
+S0119,Springfield High,467.54,2024-10-22
+S0119,Springfield High,363.35,2024-03-07
+S0119,Oakwood International,103.02,2024-10-16
+S0119,Oakwood International,88.08,2024-09-05
+S0119,Springfield High,498.03,2024-06-24
+S0119,Green Valley School,238.74,2024-12-15
+S0119,Springfield High,440.75,2024-01-25
+S0120,Riverside Academy,253.71,2024-01-24
+S0120,Riverside Academy,54.12,2024-02-20
+S0120,Green Valley School,202.69,2024-11-16
+S0120,Maple Leaf School,234.04,2024-08-23
+S0120,Springfield High,127.96,2024-01-09
+S0120,Riverside Academy,295.84,2024-03-04
+S0120,Springfield High,33.84,2024-03-21
+S0120,Green Valley School,147.86,2024-08-13
+S0120,Oakwood International,302.78,2024-08-21
+S0120,Green Valley School,423.0,2024-01-01
+S0121,Green Valley School,339.54,2024-08-07
+S0121,Green Valley School,150.02,2024-04-13
+S0122,Riverside Academy,14.01,2024-12-18
+S0122,Green Valley School,62.67,2024-03-08
+S0122,Oakwood International,75.63,2024-11-28
+S0122,Oakwood International,139.59,2024-06-03
+S0122,Oakwood International,189.23,2024-03-22
+S0122,Maple Leaf School,207.59,2024-05-20
+S0122,Green Valley School,32.17,2024-02-17
+S0123,Oakwood International,35.07,2024-12-01
+S0123,Maple Leaf School,285.29,2024-07-03
+S0123,Green Valley School,187.64,2024-05-08
+S0123,Green Valley School,151.41,2024-02-12
+S0123,Springfield High,199.31,2024-07-09
+S0123,Green Valley School,230.67,2024-12-06
+S0123,Springfield High,279.43,2024-11-28
+S0124,Riverside Academy,414.4,2024-03-25
+S0124,Riverside Academy,315.39,2024-01-27
+S0124,Maple Leaf School,309.41,2024-07-21
+S0124,Springfield High,73.05,2024-11-16
+S0124,Riverside Academy,57.37,2024-06-05
+S0124,Riverside Academy,192.87,2024-12-24
+S0124,Riverside Academy,493.53,2024-04-29
+S0124,Green Valley School,283.34,2024-08-07
+S0124,Springfield High,189.15,2024-12-01
+S0124,Riverside Academy,80.69,2024-02-16
+S0125,Springfield High,305.21,2024-12-26
+S0125,Oakwood International,206.68,2024-02-18
+S0125,Oakwood International,29.72,2024-01-01
+S0125,Green Valley School,29.07,2024-04-19
+S0125,Oakwood International,359.66,2024-09-01
+S0125,Maple Leaf School,403.94,2024-02-09
+S0125,Springfield High,264.47,2024-03-08
+S0125,Riverside Academy,82.98,2024-10-30
+S0126,Maple Leaf School,447.63,2024-04-25
+S0126,Maple Leaf School,78.49,2024-09-22
+S0126,Oakwood International,466.37,2024-12-14
+S0126,Springfield High,166.08,2024-08-15
+S0126,Riverside Academy,202.55,2024-01-05
+S0126,Maple Leaf School,312.09,2024-01-05
+S0126,Green Valley School,422.87,2024-12-22
+S0126,Riverside Academy,300.93,2024-06-24
+S0126,Oakwood International,258.58,2024-03-02
+S0127,Springfield High,259.76,2024-08-04
+S0127,Green Valley School,250.02,2024-12-21
+S0127,Riverside Academy,285.83,2024-03-08
+S0127,Riverside Academy,242.7,2024-09-01
+S0127,Maple Leaf School,18.15,2024-02-06
+S0128,Riverside Academy,172.31,2024-04-27
+S0128,Springfield High,63.71,2024-07-15
+S0128,Springfield High,214.1,2024-02-15
+S0128,Riverside Academy,160.76,2024-02-22
+S0128,Maple Leaf School,450.4,2024-02-22
+S0128,Green Valley School,437.33,2024-06-09
+S0128,Green Valley School,318.34,2024-07-07
+S0128,Maple Leaf School,302.49,2024-06-02
+S0128,Oakwood International,140.11,2024-03-11
+S0129,Springfield High,331.24,2024-07-14
+S0130,Oakwood International,486.31,2024-03-09
+S0130,Maple Leaf School,293.45,2024-11-24
+S0131,Oakwood International,121.5,2024-12-12
+S0131,Maple Leaf School,35.16,2024-03-14
+S0131,Green Valley School,245.42,2024-02-05
+S0131,Green Valley School,266.87,2024-09-28
+S0131,Oakwood International,363.38,2024-10-15
+S0131,Oakwood International,389.56,2024-01-05
+S0131,Springfield High,196.29,2024-11-08
+S0131,Green Valley School,412.61,2024-11-28
+S0131,Springfield High,128.68,2024-03-25
+S0132,Oakwood International,290.56,2024-08-13
+S0132,Maple Leaf School,353.26,2024-06-28
+S0132,Green Valley School,103.48,2024-04-19
+S0132,Maple Leaf School,226.11,2024-11-17
+S0132,Springfield High,215.2,2024-03-18
+S0133,Springfield High,212.35,2024-07-29
+S0133,Riverside Academy,109.91,2024-11-11
+S0133,Green Valley School,255.89,2024-12-17
+S0133,Green Valley School,309.62,2024-08-14
+S0133,Springfield High,241.09,2024-04-21
+S0133,Maple Leaf School,425.7,2024-02-14
+S0134,Green Valley School,366.43,2024-02-21
+S0134,Springfield High,355.83,2024-03-12
+S0135,Riverside Academy,264.15,2024-03-04
+S0135,Oakwood International,284.83,2024-10-28
+S0135,Green Valley School,499.08,2024-07-15
+S0135,Oakwood International,244.4,2024-06-28
+S0135,Maple Leaf School,194.64,2024-08-07
+S0136,Riverside Academy,478.78,2024-06-10
+S0136,Green Valley School,235.24,2024-03-12
+S0136,Oakwood International,271.23,2024-05-06
+S0136,Oakwood International,277.67,2024-05-21
+S0136,Springfield High,341.18,2024-11-26
+S0136,Oakwood International,435.15,2024-02-13
+S0136,Maple Leaf School,343.57,2024-05-07
+S0137,Oakwood International,403.79,2024-10-10
+S0137,Maple Leaf School,139.54,2024-11-03
+S0137,Maple Leaf School,247.25,2024-11-03
+S0138,Springfield High,479.1,2024-11-07
+S0138,Riverside Academy,146.71,2024-05-25
+S0138,Maple Leaf School,156.26,2024-12-19
+S0138,Oakwood International,471.33,2024-01-14
+S0138,Oakwood International,491.31,2024-12-03
+S0138,Maple Leaf School,387.88,2024-06-03
+S0138,Oakwood International,355.4,2024-04-15
+S0138,Green Valley School,348.22,2024-09-22
+S0139,Springfield High,249.61,2024-11-06
+S0140,Oakwood International,245.1,2024-09-17
+S0140,Springfield High,284.64,2024-04-06
+S0140,Maple Leaf School,467.9,2024-07-19
+S0140,Maple Leaf School,363.62,2024-05-31
+S0140,Maple Leaf School,151.02,2024-11-26
+S0141,Springfield High,291.0,2024-01-28
+S0141,Oakwood International,276.16,2024-05-02
+S0141,Green Valley School,448.92,2024-09-10
+S0141,Springfield High,203.32,2024-07-16
+S0141,Green Valley School,179.12,2024-02-27
+S0141,Oakwood International,388.8,2024-05-03
+S0141,Oakwood International,81.77,2024-09-12
+S0141,Springfield High,30.61,2024-11-22
+S0141,Riverside Academy,478.1,2024-10-31
+S0142,Green Valley School,48.72,2024-02-06
+S0142,Maple Leaf School,462.76,2024-09-27
+S0142,Green Valley School,331.43,2024-01-07
+S0143,Oakwood International,376.2,2024-07-03
+S0143,Oakwood International,114.85,2024-06-11
+S0143,Springfield High,415.7,2024-03-08
+S0143,Riverside Academy,142.86,2024-07-17
+S0143,Maple Leaf School,285.39,2024-10-18
+S0143,Green Valley School,143.09,2024-08-03
+S0143,Riverside Academy,63.52,2024-07-06
+S0143,Maple Leaf School,373.04,2024-10-06
+S0143,Oakwood International,127.25,2024-12-15
+S0144,Oakwood International,34.88,2024-03-29
+S0144,Springfield High,453.54,2024-08-29
+S0145,Springfield High,120.58,2024-02-07
+S0145,Green Valley School,124.09,2024-01-09
+S0145,Riverside Academy,59.1,2024-10-27
+S0145,Riverside Academy,171.84,2024-02-04
+S0145,Maple Leaf School,241.48,2024-01-08
+S0146,Green Valley School,343.78,2024-05-14
+S0146,Springfield High,77.36,2024-04-20
+S0146,Green Valley School,482.61,2024-01-21
+S0146,Oakwood International,489.18,2024-01-31
+S0146,Springfield High,87.39,2024-07-22
+S0146,Riverside Academy,329.92,2024-09-16
+S0146,Springfield High,441.52,2024-05-26
+S0146,Oakwood International,243.09,2024-11-17
+S0146,Springfield High,328.76,2024-12-30
+S0147,Riverside Academy,380.4,2024-09-13
+S0147,Oakwood International,150.75,2024-07-31
+S0147,Maple Leaf School,149.85,2024-08-04
+S0147,Green Valley School,38.99,2024-12-25
+S0147,Maple Leaf School,386.68,2024-07-24
+S0147,Oakwood International,329.63,2024-02-12
+S0147,Oakwood International,123.79,2024-11-23
+S0147,Oakwood International,371.96,2024-10-01
+S0147,Riverside Academy,426.66,2024-10-02
+S0147,Oakwood International,28.28,2024-11-11
+S0148,Green Valley School,461.52,2024-03-19
+S0148,Riverside Academy,214.76,2024-05-22
+S0148,Oakwood International,420.43,2024-02-12
+S0148,Riverside Academy,467.62,2024-06-07
+S0149,Green Valley School,27.81,2024-02-10
+S0149,Green Valley School,419.74,2024-09-18
+S0149,Riverside Academy,396.1,2024-04-14
+S0150,Springfield High,101.29,2024-03-20
+S0150,Maple Leaf School,377.01,2024-10-01
+S0150,Oakwood International,437.42,2024-06-16
+S0150,Maple Leaf School,151.84,2024-07-19
+S0150,Green Valley School,28.36,2024-10-27
+S0150,Maple Leaf School,156.21,2024-11-20
+S0151,Springfield High,305.36,2024-11-28
+S0151,Maple Leaf School,464.94,2024-12-14
+S0151,Maple Leaf School,174.17,2024-11-25
+S0152,Green Valley School,232.63,2024-02-03
+S0152,Green Valley School,324.24,2024-06-07
+S0152,Oakwood International,266.92,2024-12-23
+S0152,Riverside Academy,445.74,2024-08-11
+S0152,Oakwood International,75.76,2024-05-02
+S0152,Green Valley School,257.06,2024-01-30
+S0152,Oakwood International,143.69,2024-05-05
+S0152,Maple Leaf School,406.32,2024-02-14
+S0152,Maple Leaf School,172.04,2024-08-10
+S0153,Green Valley School,368.25,2024-02-29
+S0153,Green Valley School,327.66,2024-08-20
+S0153,Oakwood International,362.11,2024-11-09
+S0153,Oakwood International,16.9,2024-11-07
+S0153,Maple Leaf School,175.18,2024-01-29
+S0153,Riverside Academy,154.56,2024-06-07
+S0153,Riverside Academy,340.46,2024-12-07
+S0153,Green Valley School,104.65,2024-12-02
+S0153,Oakwood International,309.37,2024-03-30
+S0154,Riverside Academy,322.98,2024-03-02
+S0155,Oakwood International,208.69,2024-01-07
+S0155,Springfield High,219.57,2024-12-28
+S0155,Maple Leaf School,170.68,2024-03-11
+S0155,Oakwood International,206.41,2024-12-25
+S0155,Oakwood International,56.74,2024-01-06
+S0155,Oakwood International,491.03,2024-03-24
+S0155,Riverside Academy,243.95,2024-09-11
+S0155,Oakwood International,468.55,2024-06-26
+S0155,Springfield High,13.35,2024-09-24
+S0155,Riverside Academy,197.95,2024-09-21
+S0156,Green Valley School,228.9,2024-05-12
+S0156,Green Valley School,140.83,2024-03-26
+S0156,Maple Leaf School,171.52,2024-07-09
+S0156,Springfield High,295.41,2024-03-05
+S0156,Oakwood International,290.71,2024-05-17
+S0156,Springfield High,138.16,2024-03-01
+S0157,Green Valley School,186.18,2024-01-16
+S0157,Oakwood International,125.79,2024-06-20
+S0157,Springfield High,337.22,2024-08-07
+S0157,Riverside Academy,238.04,2024-05-19
+S0157,Oakwood International,88.26,2024-09-25
+S0157,Riverside Academy,346.18,2024-02-02
+S0157,Springfield High,462.32,2024-05-14
+S0157,Oakwood International,445.02,2024-12-30
+S0158,Maple Leaf School,387.22,2024-10-22
+S0159,Maple Leaf School,348.24,2024-11-17
+S0159,Green Valley School,322.97,2024-02-09
+S0160,Oakwood International,470.91,2024-09-11
+S0160,Springfield High,190.1,2024-08-21
+S0160,Maple Leaf School,118.22,2024-09-18
+S0160,Green Valley School,479.11,2024-07-03
+S0160,Oakwood International,244.31,2024-01-29
+S0160,Maple Leaf School,232.94,2024-09-12
+S0161,Oakwood International,494.53,2024-10-17
+S0161,Green Valley School,193.08,2024-03-26
+S0161,Springfield High,353.95,2024-07-07
+S0161,Green Valley School,457.27,2024-03-21
+S0161,Springfield High,381.1,2024-05-10
+S0162,Riverside Academy,402.98,2024-02-22
+S0162,Maple Leaf School,414.55,2024-10-20
+S0162,Riverside Academy,383.31,2024-12-11
+S0162,Springfield High,343.37,2024-02-29
+S0163,Oakwood International,301.95,2024-04-26
+S0164,Springfield High,395.81,2024-09-17
+S0164,Springfield High,267.5,2024-01-02
+S0164,Oakwood International,268.8,2024-01-23
+S0164,Riverside Academy,187.27,2024-01-07
+S0165,Maple Leaf School,459.45,2024-05-05
+S0165,Springfield High,64.98,2024-01-24
+S0165,Springfield High,416.1,2024-08-29
+S0165,Maple Leaf School,452.42,2024-07-05
+S0165,Springfield High,109.06,2024-07-15
+S0165,Maple Leaf School,272.96,2024-03-17
+S0165,Maple Leaf School,90.62,2024-04-01
+S0165,Maple Leaf School,428.7,2024-01-19
+S0165,Oakwood International,226.5,2024-10-10
+S0165,Riverside Academy,343.34,2024-12-01
+S0166,Riverside Academy,361.29,2024-08-02
+S0166,Green Valley School,249.53,2024-04-24
+S0167,Oakwood International,450.46,2024-06-13
+S0167,Green Valley School,228.29,2024-05-07
+S0168,Riverside Academy,37.26,2024-08-01
+S0168,Riverside Academy,74.65,2024-06-12
+S0168,Riverside Academy,213.56,2024-05-18
+S0168,Springfield High,286.32,2024-02-09
+S0168,Green Valley School,283.81,2024-10-19
+S0168,Oakwood International,339.66,2024-07-09
+S0168,Green Valley School,161.0,2024-03-02
+S0168,Riverside Academy,20.67,2024-09-14
+S0169,Oakwood International,134.68,2024-12-10
+S0169,Green Valley School,11.48,2024-01-27
+S0170,Riverside Academy,116.77,2024-04-01
+S0170,Riverside Academy,45.78,2024-04-24
+S0170,Oakwood International,217.61,2024-09-21
+S0170,Maple Leaf School,353.19,2024-01-24
+S0170,Oakwood International,275.17,2024-07-24
+S0170,Maple Leaf School,39.53,2024-02-05
+S0170,Springfield High,448.17,2024-08-26
+S0170,Oakwood International,493.21,2024-05-24
+S0170,Maple Leaf School,241.31,2024-06-08
+S0171,Green Valley School,150.67,2024-06-16
+S0171,Riverside Academy,98.19,2024-02-14
+S0171,Springfield High,76.36,2024-10-10
+S0172,Oakwood International,324.35,2024-08-21
+S0172,Maple Leaf School,367.35,2024-01-05
+S0172,Green Valley School,482.25,2024-07-07
+S0173,Maple Leaf School,193.49,2024-04-12
+S0173,Oakwood International,446.75,2024-05-29
+S0173,Maple Leaf School,229.78,2024-10-15
+S0173,Oakwood International,459.39,2024-06-04
+S0173,Maple Leaf School,194.97,2024-11-14
+S0173,Riverside Academy,49.32,2024-05-04
+S0173,Oakwood International,482.43,2024-08-25
+S0173,Oakwood International,438.53,2024-07-07
+S0174,Springfield High,75.17,2024-10-29
+S0174,Riverside Academy,431.54,2024-09-09
+S0174,Oakwood International,68.13,2024-04-10
+S0174,Green Valley School,496.49,2024-10-06
+S0174,Maple Leaf School,202.6,2024-05-05
+S0174,Green Valley School,72.4,2024-03-18
+S0174,Maple Leaf School,489.57,2024-01-04
+S0174,Maple Leaf School,419.06,2024-07-28
+S0174,Springfield High,380.53,2024-01-13
+S0175,Oakwood International,489.46,2024-04-29
+S0175,Maple Leaf School,236.87,2024-10-04
+S0175,Springfield High,362.36,2024-06-26
+S0176,Green Valley School,217.82,2024-11-21
+S0176,Springfield High,195.85,2024-12-21
+S0176,Green Valley School,122.54,2024-01-05
+S0176,Oakwood International,235.71,2024-06-20
+S0176,Maple Leaf School,86.01,2024-01-01
+S0177,Riverside Academy,102.36,2024-12-02
+S0177,Green Valley School,438.85,2024-07-11
+S0177,Maple Leaf School,385.09,2024-06-06
+S0177,Riverside Academy,25.79,2024-02-23
+S0177,Riverside Academy,333.5,2024-04-15
+S0177,Green Valley School,311.31,2024-09-28
+S0177,Maple Leaf School,468.76,2024-05-01
+S0177,Riverside Academy,445.63,2024-08-02
+S0177,Springfield High,127.93,2024-09-08
+S0178,Springfield High,42.97,2024-01-31
+S0178,Maple Leaf School,301.03,2024-03-13
+S0178,Oakwood International,228.76,2024-12-30
+S0178,Springfield High,339.29,2024-05-23
+S0178,Green Valley School,437.38,2024-02-17
+S0178,Maple Leaf School,129.92,2024-01-23
+S0178,Riverside Academy,31.68,2024-04-28
+S0178,Springfield High,225.09,2024-09-23
+S0178,Maple Leaf School,274.48,2024-07-30
+S0178,Maple Leaf School,379.65,2024-12-24
+S0179,Oakwood International,390.27,2024-07-09
+S0179,Riverside Academy,78.67,2024-08-22
+S0179,Riverside Academy,496.81,2024-02-13
+S0179,Riverside Academy,124.74,2024-10-24
+S0179,Green Valley School,459.03,2024-02-18
+S0179,Maple Leaf School,292.29,2024-09-15
+S0179,Green Valley School,292.96,2024-03-09
+S0180,Green Valley School,388.54,2024-11-22
+S0180,Maple Leaf School,411.01,2024-07-20
+S0180,Riverside Academy,126.08,2024-02-08
+S0180,Maple Leaf School,439.37,2024-10-30
+S0181,Oakwood International,492.99,2024-10-17
+S0181,Maple Leaf School,265.41,2024-02-01
+S0181,Maple Leaf School,212.64,2024-08-10
+S0181,Springfield High,144.83,2024-12-05
+S0181,Oakwood International,282.79,2024-03-07
+S0181,Springfield High,299.92,2024-05-01
+S0181,Riverside Academy,370.25,2024-05-29
+S0181,Riverside Academy,95.82,2024-05-13
+S0181,Oakwood International,342.59,2024-06-10
+S0182,Green Valley School,282.37,2024-07-20
+S0182,Maple Leaf School,32.97,2024-12-24
+S0182,Springfield High,178.76,2024-06-16
+S0182,Oakwood International,325.22,2024-06-11
+S0183,Springfield High,196.77,2024-08-19
+S0183,Maple Leaf School,266.99,2024-05-19
+S0183,Green Valley School,351.19,2024-04-29
+S0183,Springfield High,210.05,2024-02-08
+S0183,Oakwood International,156.95,2024-04-13
+S0184,Maple Leaf School,100.1,2024-03-10
+S0184,Maple Leaf School,273.58,2024-10-26
+S0184,Green Valley School,128.07,2024-02-25
+S0184,Oakwood International,120.42,2024-03-20
+S0184,Maple Leaf School,430.2,2024-02-24
+S0184,Springfield High,80.73,2024-03-25
+S0184,Riverside Academy,236.88,2024-08-18
+S0185,Oakwood International,38.24,2024-08-26
+S0185,Springfield High,212.21,2024-06-09
+S0185,Green Valley School,214.09,2024-07-27
+S0185,Green Valley School,269.7,2024-03-02
+S0185,Maple Leaf School,200.33,2024-10-01
+S0185,Green Valley School,134.95,2024-07-02
+S0186,Riverside Academy,171.83,2024-04-16
+S0186,Springfield High,48.74,2024-08-19
+S0186,Oakwood International,230.4,2024-06-06
+S0186,Maple Leaf School,191.83,2024-08-25
+S0186,Oakwood International,272.46,2024-05-15
+S0186,Springfield High,416.41,2024-03-02
+S0186,Riverside Academy,35.25,2024-02-16
+S0186,Springfield High,194.81,2024-03-21
+S0187,Springfield High,306.44,2024-12-17
+S0187,Maple Leaf School,29.38,2024-06-04
+S0187,Oakwood International,45.66,2024-12-26
+S0187,Springfield High,404.28,2024-12-22
+S0187,Springfield High,297.92,2024-11-04
+S0187,Riverside Academy,339.01,2024-01-21
+S0187,Green Valley School,116.34,2024-04-20
+S0187,Riverside Academy,112.36,2024-06-16
+S0187,Oakwood International,454.45,2024-03-16
+S0188,Oakwood International,158.56,2024-02-16
+S0188,Maple Leaf School,455.41,2024-12-30
+S0188,Green Valley School,113.79,2024-05-07
+S0188,Oakwood International,103.11,2024-07-01
+S0188,Green Valley School,373.32,2024-07-21
+S0188,Riverside Academy,375.97,2024-09-19
+S0188,Oakwood International,379.62,2024-01-26
+S0188,Springfield High,458.08,2024-12-12
+S0189,Oakwood International,350.86,2024-06-02
+S0189,Green Valley School,354.85,2024-05-13
+S0190,Oakwood International,204.35,2024-03-30
+S0190,Maple Leaf School,127.27,2024-01-16
+S0190,Springfield High,167.59,2024-07-26
+S0190,Maple Leaf School,148.7,2024-08-19
+S0191,Riverside Academy,238.46,2024-10-11
+S0191,Oakwood International,327.87,2024-10-08
+S0191,Oakwood International,161.13,2024-05-07
+S0191,Riverside Academy,186.23,2024-02-18
+S0192,Maple Leaf School,442.58,2024-08-24
+S0192,Springfield High,238.34,2024-02-22
+S0193,Maple Leaf School,403.38,2024-03-12
+S0193,Green Valley School,363.98,2024-03-03
+S0193,Maple Leaf School,383.2,2024-01-07
+S0193,Springfield High,166.91,2024-02-01
+S0193,Oakwood International,109.53,2024-04-23
+S0193,Maple Leaf School,163.33,2024-03-07
+S0194,Riverside Academy,32.4,2024-04-11
+S0195,Springfield High,433.4,2024-07-24
+S0195,Oakwood International,373.21,2024-07-09
+S0195,Springfield High,17.95,2024-12-17
+S0195,Riverside Academy,281.12,2024-11-18
+S0195,Green Valley School,296.18,2024-11-26
+S0195,Springfield High,362.81,2024-02-13
+S0195,Springfield High,154.64,2024-10-25
+S0195,Maple Leaf School,106.13,2024-10-27
+S0195,Riverside Academy,122.71,2024-05-12
+S0195,Riverside Academy,289.2,2024-02-08
+S0196,Green Valley School,130.41,2024-01-12
+S0196,Riverside Academy,279.81,2024-02-03
+S0196,Springfield High,472.3,2024-04-11
+S0196,Green Valley School,175.41,2024-11-26
+S0196,Riverside Academy,384.05,2024-08-15
+S0196,Green Valley School,249.42,2024-03-06
+S0196,Riverside Academy,364.54,2024-02-17
+S0196,Riverside Academy,372.4,2024-06-18
+S0196,Maple Leaf School,235.81,2024-03-03
+S0197,Riverside Academy,369.06,2024-01-22
+S0197,Green Valley School,182.57,2024-08-24
+S0197,Springfield High,78.58,2024-01-26
+S0197,Maple Leaf School,277.81,2024-03-27
+S0198,Riverside Academy,100.18,2024-10-20
+S0198,Riverside Academy,445.79,2024-08-09
+S0198,Green Valley School,495.26,2024-07-21
+S0198,Maple Leaf School,479.05,2024-09-11
+S0198,Riverside Academy,266.73,2024-01-16
+S0198,Springfield High,421.14,2024-07-14
+S0198,Springfield High,46.42,2024-12-15
+S0198,Riverside Academy,410.82,2024-08-06
+S0198,Springfield High,33.77,2024-03-29
+S0198,Maple Leaf School,13.13,2024-06-30
+S0199,Riverside Academy,77.37,2024-04-19
+S0199,Green Valley School,319.04,2024-04-05
+S0199,Maple Leaf School,43.3,2024-05-20
+S0199,Springfield High,84.0,2024-05-23
+S0200,Riverside Academy,117.17,2024-08-16
